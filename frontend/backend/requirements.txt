@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pdfplumber
+chromadb
+groq>=0.9.0
+python-dotenv
+pydantic
+python-multipart
+beautifulsoup4
+requests
