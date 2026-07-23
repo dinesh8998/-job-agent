@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 job_db/
 .DS_Store
+frontend/backend/chroma_data/
+frontend/backend/__pycache__/
